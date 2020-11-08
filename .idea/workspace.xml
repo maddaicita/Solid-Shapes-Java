@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79a57c2f-3a25-4dbc-9ef3-fa16a9b88099" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cube.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cube.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cylinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sphere.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sphere.java" afterDir="false" />
-    </list>
+    <list default="true" id="79a57c2f-3a25-4dbc-9ef3-fa16a9b88099" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +34,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604773707898</updated>
-      <workItem from="1604773711446" duration="5909000" />
+      <workItem from="1604773711446" duration="6301000" />
     </task>
     <servers />
   </component>
