@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79a57c2f-3a25-4dbc-9ef3-fa16a9b88099" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/src/Colorable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/src/TestSolidShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ShapesJava2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ShapesJava2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/Colorable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Colorable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/Cube.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cube.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/SolidShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SolidShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/Sphere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sphere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/TestSolidShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestSolidShape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cube.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/Cube.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/Cylinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SolidShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/SolidShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sphere.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/Sphere.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +49,7 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Maday\Git projects\SolidShapes" />
       <recent name="C:\Users\Maday\Git projects\SolidShapes\.idea\src" />
     </key>
   </component>
@@ -64,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604773707898</updated>
-      <workItem from="1604773711446" duration="9649000" />
+      <workItem from="1604773711446" duration="9961000" />
     </task>
     <servers />
   </component>
