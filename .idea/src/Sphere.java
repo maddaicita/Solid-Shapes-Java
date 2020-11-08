@@ -1,5 +1,5 @@
 
-public class Sphere {
+class Sphere extends SolidShape implements Colorable {
 
     double radius =1.0; // data field named side with a default value 1.0 to denote one side of the cube
 
@@ -19,21 +19,20 @@ public class Sphere {
         this.radius = radius;
     }
 
-    double getArea(){  // returns the area of this sphere.
-
-
+    double getArea() {
+        return 4 * Math.PI * radius * radius;
     }
 
-    double getVolume(){ //that returns the volume of this sphere.
-
-
+    double getVolume() {
+        return 4.0 / 3 * Math.PI * radius * radius * radius;
     }
 
+    public String toString() {
+        return "Radius of Sphere: " + radius;
+    }
 
-    // toString() // returns a string description for the sphere.
-
-
-
+    public void howToColor() {
+    }
 
 
 }

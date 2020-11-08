@@ -1,7 +1,5 @@
 
-
-public class SolidShape
-{
+abstract class SolidShape implements Comparable {
     String color; //specify the color of the solid shape
 
     SolidShape(){} // no-arg constructor that creates a default solid shape.
@@ -24,3 +22,4 @@ public class SolidShape
     abstract double getVolume();
 
 }
+

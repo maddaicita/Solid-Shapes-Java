@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79a57c2f-3a25-4dbc-9ef3-fa16a9b88099" name="Default Changelist" comment="" />
+    <list default="true" id="79a57c2f-3a25-4dbc-9ef3-fa16a9b88099" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/src/Colorable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/TestSolidShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ShapesJava2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ShapesJava2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cube.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/Cube.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SolidShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/SolidShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sphere.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/Sphere.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,6 +41,18 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Maday\Git projects\SolidShapes\.idea\src" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -34,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604773707898</updated>
-      <workItem from="1604773711446" duration="6301000" />
+      <workItem from="1604773711446" duration="9649000" />
     </task>
     <servers />
   </component>
@@ -42,10 +72,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2685" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1604812614421">
+    <state x="2334" y="182" width="1092" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604813805778">
       <screen x="1920" y="7" width="1920" height="1040" />
     </state>
-    <state x="2685" y="228" key="#com.intellij.ide.util.MemberChooser/1113.1087.1280.666/1920.7.1920.1040/0.0.1920.999@1920.7.1920.1040" timestamp="1604812614421" />
+    <state x="2334" y="182" width="1092" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog/1113.1087.1280.666/1920.7.1920.1040/0.0.1920.999@1920.7.1920.1040" timestamp="1604813805778" />
+    <state x="2624" y="330" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604813727038">
+      <screen x="1920" y="7" width="1920" height="1040" />
+    </state>
+    <state x="2624" y="330" key="#com.intellij.fileTypes.FileTypeChooser/1113.1087.1280.666/1920.7.1920.1040/0.0.1920.999@1920.7.1920.1040" timestamp="1604813727038" />
+    <state x="2685" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1604816216382">
+      <screen x="1920" y="7" width="1920" height="1040" />
+    </state>
+    <state x="2685" y="228" key="#com.intellij.ide.util.MemberChooser/1113.1087.1280.666/1920.7.1920.1040/0.0.1920.999@1920.7.1920.1040" timestamp="1604816216382" />
+    <state x="2381" y="169" key="SettingsEditor" timestamp="1604814215489">
+      <screen x="1920" y="7" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="169" key="SettingsEditor/1113.1087.1280.666/1920.7.1920.1040/0.0.1920.999@1920.7.1920.1040" timestamp="1604814215489" />
     <state x="2575" y="351" key="com.intellij.ide.util.TipDialog" timestamp="1604773711383">
       <screen x="1920" y="7" width="1920" height="1040" />
     </state>
