@@ -36,5 +36,9 @@ class Cube extends SolidShape implements Colorable {
     public void howToColor() {
     }
 
+    @Override
+    public int compareTo(Object o) {
+        return 0;
+    }
 }
 

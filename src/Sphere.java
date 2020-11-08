@@ -35,4 +35,8 @@ class Sphere extends SolidShape implements Colorable {
     }
 
 
+    @Override
+    public int compareTo(Object o) {
+        return 0;
+    }
 }
