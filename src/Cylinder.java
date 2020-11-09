@@ -1,4 +1,4 @@
-class Cylinder extends SolidShape implements Colorable  {
+class Cylinder extends SolidShape  {
 
     double length =1.0; // lenght of the cilinder
     double radius =1.0;// radius of the cilinder

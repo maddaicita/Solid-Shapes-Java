@@ -21,12 +21,14 @@ abstract class SolidShape implements Comparable {
     abstract double getArea();
     abstract double getVolume();
 
-    static void max(){    //finding the larger of three SolidShape objects.
 
-
+    @Override
+    public int compareTo(Object o) {
+        return 0;
     }
 
 
 
+    static void max(){ }   //finding the larger of three SolidShape objects.
 }
 

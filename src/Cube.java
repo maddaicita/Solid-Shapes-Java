@@ -1,6 +1,6 @@
 
 
-class Cube extends SolidShape implements Colorable {
+class Cube extends SolidShape {
 
     double side = 1.0; // data field named side with a default value 1.0 to denote one side of the cube
 
@@ -36,9 +36,6 @@ class Cube extends SolidShape implements Colorable {
     public void howToColor() {
     }
 
-    @Override
-    public int compareTo(Object o) {
-        return 0;
-    }
+
 }
 

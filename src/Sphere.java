@@ -1,5 +1,5 @@
 
-class Sphere extends SolidShape implements Colorable {
+class Sphere extends SolidShape {
 
     double radius =1.0; // data field named side with a default value 1.0 to denote one side of the cube
 

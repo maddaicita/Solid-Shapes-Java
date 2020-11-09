@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79a57c2f-3a25-4dbc-9ef3-fa16a9b88099" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/src/Colorable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Colorable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/Cube.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cube.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cylinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/SolidShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SolidShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/Sphere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sphere.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/TestSolidShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestSolidShape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cube.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cube.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SolidShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SolidShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sphere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sphere.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604773707898</updated>
-      <workItem from="1604773711446" duration="9961000" />
+      <workItem from="1604773711446" duration="15200000" />
     </task>
     <servers />
   </component>
@@ -79,10 +77,10 @@
       <screen x="1920" y="7" width="1920" height="1040" />
     </state>
     <state x="2624" y="330" key="#com.intellij.fileTypes.FileTypeChooser/1113.1087.1280.666/1920.7.1920.1040/0.0.1920.999@1920.7.1920.1040" timestamp="1604813727038" />
-    <state x="2685" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1604816935106">
+    <state x="2685" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1604932413283">
       <screen x="1920" y="7" width="1920" height="1040" />
     </state>
-    <state x="2685" y="228" key="#com.intellij.ide.util.MemberChooser/1113.1087.1280.666/1920.7.1920.1040/0.0.1920.999@1920.7.1920.1040" timestamp="1604816935106" />
+    <state x="2685" y="228" key="#com.intellij.ide.util.MemberChooser/1113.1087.1280.666/1920.7.1920.1040/0.0.1920.999@1920.7.1920.1040" timestamp="1604932413283" />
     <state x="2381" y="169" key="SettingsEditor" timestamp="1604814215489">
       <screen x="1920" y="7" width="1920" height="1040" />
     </state>
