@@ -1,5 +1,13 @@
+import java.util.Collection;
 
-abstract class SolidShape implements Comparable {
+//COP2805: Java 2 Programming
+//Maday Moya
+//Project 1
+
+
+
+
+abstract class SolidShape implements Comparable<Object>{
     String color; //specify the color of the solid shape
 
     SolidShape(){} // no-arg constructor that creates a default solid shape.
@@ -22,13 +30,15 @@ abstract class SolidShape implements Comparable {
     abstract double getVolume();
 
 
-    @Override
-    public int compareTo(Object o) {
-        return 0;
-    }
+    static void max(SolidShape[] shapes){
 
+        if (shapes[0].compareTo(shapes[1]) > 0 && shapes[0].compareTo(shapes[2]) > 0) //cube > cilindro
+            System.out.print(" The larger shape is the Cube ");
+        else if (shapes[1].compareTo(shapes[0]) > 0 && shapes[1].compareTo(shapes[2]) > 0) //cube < cilindro
+            System.out.print(" The larger shape is the Cylinder ");
+        else
+            System.out.print(" The larger shape is the Sphere ");
 
-
-    static void max(){ }   //finding the larger of three SolidShape objects.
+    }   //finding the larger of three SolidShape objects.
 }
 

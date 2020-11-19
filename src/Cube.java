@@ -1,6 +1,9 @@
+//COP2805: Java 2 Programming
+//Maday Moya
+//Project 1
 
 
-class Cube extends SolidShape {
+class Cube extends SolidShape  implements Colorable {
 
     double side = 1.0; // data field named side with a default value 1.0 to denote one side of the cube
 
@@ -34,8 +37,19 @@ class Cube extends SolidShape {
     }
 
     public void howToColor() {
+
+        System.out.println("Color all six sides");
     }
 
 
+    @Override
+    public int compareTo(Object o) {
+        if (getArea() > ((SolidShape)o).getArea() )
+            return 1;
+        else if (getArea() < ((SolidShape)o).getArea() )
+            return -1;
+        else
+            return 0;
+    }
 }
 

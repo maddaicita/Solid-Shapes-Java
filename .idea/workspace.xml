@@ -3,10 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="79a57c2f-3a25-4dbc-9ef3-fa16a9b88099" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Colorable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Colorable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Cube.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cube.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cylinder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SolidShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SolidShape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Sphere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sphere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestSolidShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestSolidShape.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +39,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -51,6 +53,20 @@
       <recent name="C:\Users\Maday\Git projects\SolidShapes\.idea\src" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="TestSolidShape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestSolidShape" />
+      <module name="ShapesJava2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestSolidShape" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -61,14 +77,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604773707898</updated>
-      <workItem from="1604773711446" duration="15200000" />
+      <workItem from="1604773711446" duration="15938000" />
+      <workItem from="1605330750597" duration="433000" />
+      <workItem from="1605384112307" duration="1363000" />
+      <workItem from="1605490073748" duration="5937000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1605736951523">
+      <screen x="0" y="0" width="1280" height="639" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.639@0.0.1280.639" timestamp="1605736951523" />
     <state x="2334" y="182" width="1092" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604813805778">
       <screen x="1920" y="7" width="1920" height="1040" />
     </state>
@@ -85,9 +119,13 @@
       <screen x="1920" y="7" width="1920" height="1040" />
     </state>
     <state x="2381" y="169" key="SettingsEditor/1113.1087.1280.666/1920.7.1920.1040/0.0.1920.999@1920.7.1920.1040" timestamp="1604814215489" />
-    <state x="2575" y="351" key="com.intellij.ide.util.TipDialog" timestamp="1604773711383">
+    <state x="2575" y="351" key="com.intellij.ide.util.TipDialog" timestamp="1605490080313">
       <screen x="1920" y="7" width="1920" height="1040" />
     </state>
-    <state x="2575" y="351" key="com.intellij.ide.util.TipDialog/1113.1087.1280.666/1920.7.1920.1040/0.0.1920.999@1920.7.1920.1040" timestamp="1604773711383" />
+    <state x="2575" y="351" key="com.intellij.ide.util.TipDialog/1113.1087.1280.666/1920.7.1920.1040/0.0.1920.999@1920.7.1920.1040" timestamp="1605490080313" />
+    <state x="2262" y="147" key="new project wizard" timestamp="1605749180002">
+      <screen x="1920" y="7" width="1920" height="1040" />
+    </state>
+    <state x="2262" y="147" key="new project wizard/1113.1087.1280.666/1920.7.1920.1040/0.0.1920.999@1920.7.1920.1040" timestamp="1605749180002" />
   </component>
 </project>

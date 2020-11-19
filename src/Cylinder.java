@@ -1,3 +1,8 @@
+
+//COP2805: Java 2 Programming
+//Maday Moya
+//Project 1
+
 class Cylinder extends SolidShape  {
 
     double length =1.0; // lenght of the cilinder
@@ -40,7 +45,7 @@ class Cylinder extends SolidShape  {
         return "Radius of Cylinder: " + radius + "\n" + "Length of Cylinder: " + length;
     }
 
-   public void howToColor()
+
     {
 
     }
@@ -48,6 +53,11 @@ class Cylinder extends SolidShape  {
 
     @Override
     public int compareTo(Object o) {
-        return 0;
+        if (getArea() > ((SolidShape)o).getArea() )
+            return 1;
+        else if (getArea() < ((SolidShape)o).getArea() )
+            return -1;
+        else
+            return 0;
     }
 }
